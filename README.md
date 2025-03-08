@@ -7,7 +7,8 @@
 
 ## 主要功能
 ### APP
-- 帳號綁定Google登入  
+- 帳號綁定Google登入
+  - 使用firebase的Authorization做登入驗證的部分，透過Google帳號統一管理。
 - 統計羊奶口味總數  
 - 讀取excel轉換成導航頁面  
 - 配送範圍  
