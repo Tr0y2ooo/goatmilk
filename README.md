@@ -9,9 +9,13 @@
 ### APP
 - 帳號綁定Google登入
   - 使用firebase的Authorization做登入驗證的部分，透過Google帳號統一管理。
-- 統計羊奶口味總數  
-- 讀取excel轉換成導航頁面  
-- 配送範圍  
+  - ![image](https://github.com/user-attachments/assets/788bfd0e-6693-4a76-8ad8-b152aea971f9)
+  - ![image](https://github.com/user-attachments/assets/57338a2f-fc16-4830-9e0a-7089ece91702)
+
+- 讀取excel轉換成導航頁面(統計該日羊奶總數及口味)
+  - ![image](https://github.com/user-attachments/assets/9e9b4151-edab-45b4-a5e6-599cf3c767f2)
+  - ![image](https://github.com/user-attachments/assets/83660e7f-8832-4e76-a6aa-c6ecaaccfe68)  
+- 配送範圍
 - 及時回報聊天室  
 - 簽署入職合約
 ### 電商網站
