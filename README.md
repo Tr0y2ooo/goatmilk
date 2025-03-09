@@ -13,16 +13,27 @@
   - ![image](https://github.com/user-attachments/assets/57338a2f-fc16-4830-9e0a-7089ece91702)
 
 - 讀取excel轉換成導航頁面(統計該日羊奶總數及口味)
-  - ![image](https://github.com/user-attachments/assets/9e9b4151-edab-45b4-a5e6-599cf3c767f2)
-  - ![image](https://github.com/user-attachments/assets/83660e7f-8832-4e76-a6aa-c6ecaaccfe68)  
+  - ![image](https://github.com/user-attachments/assets/4a9246db-db71-42b6-afa2-f1e31a2b0b7f)
+  - ![image](https://github.com/user-attachments/assets/83660e7f-8832-4e76-a6aa-c6ecaaccfe68)
+  - ![image](https://github.com/user-attachments/assets/65d9d370-099b-4383-b17c-b1683a28a160)
+ 
 - 配送範圍
-- 及時回報聊天室  
-- 簽署入職合約
+  - ![image](https://github.com/user-attachments/assets/0ec3f1af-e08f-42ac-b34c-6ff693576558)
+
+- 及時回報聊天室(可以傳圖片文字座標)
+  - ![image](https://github.com/user-attachments/assets/536750e0-43c4-46b6-842e-14c046da05f4)
+
+- 簽署入職合約(簽署完會自動產出一分簽好的合約存在個人的google空間)
+  - ![image](https://github.com/user-attachments/assets/293b04f5-bf40-4295-9163-867afbafd644)
+
 ### 電商網站
-- 產品展示
-- 購物車
+- 產品展示(有購物車功能)
+  - ![image](https://github.com/user-attachments/assets/ddf215a7-c438-4c2b-b81b-da3ba694458c)
 - Google評論網友評價
+  - 
 - 公司簡介
+  - ![image](https://github.com/user-attachments/assets/bf0f15af-8da6-4f5e-848e-925dfd0b4cd0)
+
 - 新聞報導文章
 - 聯絡資訊
 ### 後台網站
