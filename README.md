@@ -9,34 +9,51 @@
 ### APP
 - 帳號綁定Google登入
   - 使用firebase的Authorization做登入驗證的部分，透過Google帳號統一管理。
-  - ![image](https://github.com/user-attachments/assets/788bfd0e-6693-4a76-8ad8-b152aea971f9)
-  - ![image](https://github.com/user-attachments/assets/57338a2f-fc16-4830-9e0a-7089ece91702)
+  - ![image](https://github.com/user-attachments/assets/813a1e23-324a-4797-bc5e-ceaabbcb575a)
+
+  - ![image](https://github.com/user-attachments/assets/5ef7d725-0ccf-487a-86e0-1bf0c4e35f3a)
+
 
 - 讀取excel轉換成導航頁面(統計該日羊奶總數及口味)
-  - ![image](https://github.com/user-attachments/assets/4a9246db-db71-42b6-afa2-f1e31a2b0b7f)
-  - ![image](https://github.com/user-attachments/assets/83660e7f-8832-4e76-a6aa-c6ecaaccfe68)
-  - ![image](https://github.com/user-attachments/assets/65d9d370-099b-4383-b17c-b1683a28a160)
+  - ![image](https://github.com/user-attachments/assets/b62e2b0c-c74b-4da6-8ac3-786992cef9bb)
+
+  - ![image](https://github.com/user-attachments/assets/baf0e213-71d5-48d3-9f1e-873cb7675431)
+
+  - ![image](https://github.com/user-attachments/assets/33837ad9-1230-446a-a653-fada95d4b891)
+  - ![image](https://github.com/user-attachments/assets/8ba8e317-4f89-4fbf-a6f1-9f6cb143a2c1)
+
+
  
 - 配送範圍
-  - ![image](https://github.com/user-attachments/assets/0ec3f1af-e08f-42ac-b34c-6ff693576558)
+  - ![image](https://github.com/user-attachments/assets/2b56aac0-1394-467d-b412-0a564c54e270)
+
 
 - 及時回報聊天室(可以傳圖片文字座標)
-  - ![image](https://github.com/user-attachments/assets/536750e0-43c4-46b6-842e-14c046da05f4)
+  - ![image](https://github.com/user-attachments/assets/ac46f791-d7e3-41f3-8ae6-0cb3ca0f4842)
+
 
 - 簽署入職合約(簽署完會自動產出一分簽好的合約存在個人的google空間)
-  - ![image](https://github.com/user-attachments/assets/293b04f5-bf40-4295-9163-867afbafd644)
+  - ![image](https://github.com/user-attachments/assets/b99a706e-8467-4c45-b0c5-fcba990fb0b3)
+
 
 ### 電商網站
 - 產品展示(有購物車功能)
-  - ![image](https://github.com/user-attachments/assets/ddf215a7-c438-4c2b-b81b-da3ba694458c)
+  - ![image](https://github.com/user-attachments/assets/f0974ffe-ec15-4d88-bc02-4c8fffa617bf)
+  - ![image](https://github.com/user-attachments/assets/087e234e-4caf-4d79-9072-a400017ba058)
+
+
 - Google評論網友評價
-  - ![image](https://github.com/user-attachments/assets/1bf972af-39c8-4298-baf9-66aa70e47267)
+  - ![image](https://github.com/user-attachments/assets/b44638d4-b059-41d8-bce9-7b387362e3a7)
+
 - 公司簡介
-  - ![image](https://github.com/user-attachments/assets/bf0f15af-8da6-4f5e-848e-925dfd0b4cd0)
+  - ![image](https://github.com/user-attachments/assets/5fd03717-b911-4df3-8330-af9066878dbb)
+
 - 新聞報導文章
-  - ![image](https://github.com/user-attachments/assets/3eb96dbf-1d7d-4c16-8a33-6db17b18289c)
+  - ![image](https://github.com/user-attachments/assets/87bf1b75-55a4-490f-b6eb-cfb3b0801526)
+
 - 聯絡資訊
-  - ![image](https://github.com/user-attachments/assets/0ac10403-dc7c-4afb-8569-8a1e366fd73a)
+  - ![Uploading image.png…]()
+
 ### 後台網站
 - 登入介面
   - 可以用Google登入或是電話號碼(限定台灣門號)
