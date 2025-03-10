@@ -52,7 +52,8 @@
   - ![image](https://github.com/user-attachments/assets/87bf1b75-55a4-490f-b6eb-cfb3b0801526)
 
 - 聯絡資訊
-  - ![Uploading image.png…]()
+  - ![image](https://github.com/user-attachments/assets/dc70de94-ad12-4398-b6ad-13653371f31b)
+
 
 ### 後台網站
 - 登入介面
